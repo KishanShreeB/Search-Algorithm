@@ -44,9 +44,6 @@ else:
     print(array)
     print("Element found at index: ",result)
 
-
-
-
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
@@ -76,10 +73,6 @@ if(result==-1):
 else:
     print(array)
     print("Element found at index: ",result)
-
-
-
-
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
@@ -109,11 +102,6 @@ if(result==-1):
 else:
     print(array)
     print("Element found at index: ",result)
-
-
-
-
-
 ```
 ## Sample Input and Output
 ![Screenshot 2023-12-24 133716](https://github.com/KishanShreeB/Search-Algorithm/assets/144870434/c2597573-13f7-4b0b-a017-28aee0bb7fca)
